@@ -1,4 +1,4 @@
-## Olá! meu nome é Carlos Henrique, sinta-se a vontade aqui no meu perfil 😊.
+## Olá! meu nome é Carlos Henrique, sinta-se a vontade aqui no meu perfil 😊
 <br>
 <!-- GitHub status -->
 <div>
