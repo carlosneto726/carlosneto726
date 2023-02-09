@@ -3,8 +3,8 @@
 <!-- GitHub status -->
 <div>
   <a href="https://github.com/carlosneto726">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosneto726&count_private=true&show_icons=true&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosneto726&layout=compact&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosneto726&count_private=true&show_icons=true&theme=aura" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosneto726&layout=compact&theme=aura" />
   </a>
  </div>
  
@@ -13,19 +13,19 @@
 ### Aqui tem alguns projetos em destaque
 <div>
   <a href="https://github.com/carlosneto726/CPIFG.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&theme=tokyonight&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&theme=aura&show_owner=true"/>
   </a>
   
   <a href="https://github.com/carlosneto726/URI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=URI&theme=tokyonight&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=URI&theme=aura&show_owner=true"/>
   </a>
   
   <a href="https://github.com/carlosneto726/GeoPortal-MarcoZero.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=GeoPortal-MarcoZero.github.io&theme=tokyonight&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=GeoPortal-MarcoZero.github.io&theme=aura&show_owner=true"/>
   </a>
   
   <a href="https://github.com/carlosneto726/Crud-java">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=Crud-java&theme=tokyonight&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=Crud-java&theme=aura&show_owner=true"/>
   </a>
 </div>
 
