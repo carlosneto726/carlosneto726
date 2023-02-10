@@ -1,10 +1,19 @@
-## Olá! meu nome é Carlos Henrique, sinta-se a vontade aqui no meu perfil 😊
+<div>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&pause=4000&color=8B67DB&width=435&lines=Olá+👋"/>
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&weight=900&size=18&duration=4000&pause=2000&color=8B67DB&width=435&lines=Meu+nome+%C3%A9+Carlos+Henrique;Seja+bem+vindo(a)+ao+meu+perfil!;Amo+Python%2C+Java%2C+e+PostgreSQL;Estou+sempre+em+busca+de+conhecimento+%F0%9F%91%BD" alt="Typing SVG" />
+  </a>
+
+</div>
+
+
 <br>
 <!-- GitHub status -->
 <div>
-  <a href="https://github.com/carlosneto726">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosneto726&count_private=true&show_icons=true&theme=aura" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosneto726&layout=compact&theme=aura" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosneto726&count_private=true&show_icons=true&theme=aura"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosneto726&layout=compact&theme=aura"/>
   </a>
  </div>
  
@@ -34,13 +43,13 @@
 <!-- Tecnologia mais ultilizadas -->
 ### Minhas tecnologias favoritas.
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="right" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img align="right" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif"/>
 </div>
 
   ##
