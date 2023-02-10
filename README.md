@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&pause=4000&color=8B67DB&width=435&lines=Olá+👋"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&duration=4000&pause=1000&color=8B67DB&width=435&lines=Olá+👋"/>
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&weight=900&size=18&duration=4000&pause=2000&color=8B67DB&width=435&lines=Meu+nome+%C3%A9+Carlos+Henrique;Seja+bem+vindo(a)+ao+meu+perfil!;Amo+Python%2C+Java%2C+e+PostgreSQL;Estou+sempre+em+busca+de+conhecimento+%F0%9F%91%BD" alt="Typing SVG" />
   </a>
