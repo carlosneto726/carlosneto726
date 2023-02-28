@@ -33,8 +33,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=GeoPortal-MarcoZero.github.io&theme=aura&show_owner=true"/>
   </a>
   
-  <a href="https://github.com/carlosneto726/Crud-java">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=Crud-java&theme=aura&show_owner=true"/>
+  <a href="https://github.com/carlosneto726/calculadora.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=calculadora.github.io&theme=aura&show_owner=true"/>
   </a>
 </div>
 
