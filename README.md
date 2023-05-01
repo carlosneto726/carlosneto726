@@ -12,8 +12,8 @@
 <!-- GitHub status -->
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosneto726&count_private=false&theme=outrun&show_icons=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosneto726&theme=outrun&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosneto726&count_private=false&theme=vue-dark&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosneto726&theme=vue-dark&layout=compact"/>
   </a>
  </div>
  
@@ -22,19 +22,19 @@
 ### Aqui tem alguns projetos em destaque
 <div>
   <a href="https://github.com/carlosneto726/CPIFG.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&theme=outrun&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&theme=vue-dark&show_owner=true"/>
   </a>
   
   <a href="https://github.com/carlosneto726/URI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=URI&theme=outrun&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=URI&theme=vue-dark&show_owner=true"/>
   </a>
   
   <a href="https://github.com/carlosneto726/GeoPortal-MarcoZero.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=GeoPortal-MarcoZero.github.io&theme=outrun&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=GeoPortal-MarcoZero.github.io&theme=vue-dark&show_owner=true"/>
   </a>
   
   <a href="https://github.com/carlosneto726/calculadora.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=calculadora.github.io&theme=outrun&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=calculadora.github.io&theme=vue-dark&show_owner=true"/>
   </a>
 </div>
 
