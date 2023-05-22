@@ -7,7 +7,6 @@
 
 </div>
 
-
 <br>
 <!-- GitHub status -->
 <div>
