@@ -29,7 +29,7 @@
   <img align="center" height="30" width="40" title="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" height="30" width="40" title="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   <img align="center" height="30" width="40" title="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="right" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif"/>
+  <img align="right" height="150" style="border-radius:50px;" src="https://media.tenor.com/D55R-SuFKGgAAAAC/kids-goku-peace.gif"/>
   <img align="center" height="30" width="40" title="laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img align="center" height="30" width="40" title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
@@ -40,5 +40,4 @@
 <div> 
   <a href="mailto:carlosneto726@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlosneto726/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://stackoverflow.com/users/21198654/carlosneto726"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </div>
